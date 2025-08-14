@@ -18,9 +18,9 @@ Aprender nuevas tecnologías de programación sin límites es como abrir ventana
 <br><br>
 📚 El Camino con un aprendizaje infinito, puliendo cada línea de código como si fuera arte, y construyendo software que combine precisión de máquina con pasión humana..
 
+<br><br>
 
-
-### 🛠 Tecnologías <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+### 🛠 Tecnologías <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"><br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
